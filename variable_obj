@@ -1,0 +1,1 @@
+console.log (`Имя: "${obj.name}" Фамилия: '${obj.last_name}' Возраст: ${obj.age}`); // вывод строки с переменной obj со свойстами name, last_name, age
