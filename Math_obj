@@ -1,0 +1,5 @@
+console.log(Math.floor(Math.sqrt(Math.floor(value)+Math.ceil(value)+Math.round(value)))); // округлить вверх, вниз, до целого числа, из суммы вычислить корень квадратный;
+
+console.log(Math.pow(a*b,2)); // произведение значения переменных, возведенное в квадрат;
+
+console.log(Math.sqrt(a*a+b*b)); // теорема Пифагора.
