@@ -1,0 +1,5 @@
+console.log (Number(num_1) + Number(num_2)); // строка преобразована в число и посчитана сумма;
+
+console.log(parseFloat(size)); // из переменной size выводится численное значение;
+
+console.log (parseFloat(a) * parseFloat(b) * parseFloat(c)); // расчет объема прямоугольного параллелепипеда
