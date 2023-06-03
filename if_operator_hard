@@ -1,0 +1,11 @@
+const price = "25.50";
+
+const parsedPrice = parseInt(price); // преобразуем строку в число
+// проверяем число с помощью условных операторов
+if (isNaN(parsedPrice)) 
+  console.log("Не число"); // вернуло Nan - не число;
+} else if (parsedPrice <= 0) {
+  console.log("Число не корректное"); // число меньше или равно 0 - Число не корректное;
+} else {
+  console.log(parsedPrice); // в противном случае выводится само значение числа
+}
